@@ -1,0 +1,61 @@
+C:\Chathu\Projects\My Project\My Project\bin\My Project.dll.config
+C:\Chathu\Projects\My Project\My Project\bin\My Project.dll
+C:\Chathu\Projects\My Project\My Project\bin\My Project.pdb
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\csc.exe
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\csc.exe.config
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\csc.rsp
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\csi.exe
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\csi.exe.config
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\csi.rsp
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\My Project.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\My Project.dll.config
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\My Project.pdb
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.AppContext.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Console.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.IO.Compression.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.IO.Pipes.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Security.Claims.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.ValueTuple.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Xml.XPath.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\vbc.exe
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\vbc.exe.config
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\vbc.rsp
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\VBCSCompiler.exe
+C:\Chathu\Projects\My Project\My Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Chathu\Projects\My Project\My Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Chathu\Projects\My Project\My Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Chathu\Projects\My Project\My Project\obj\Release\My Project.csprojAssemblyReference.cache
+C:\Chathu\Projects\My Project\My Project\obj\Release\My Project.csproj.CoreCompileInputs.cache
+C:\Chathu\Projects\My Project\My Project\obj\Release\My Project.csproj.CopyComplete
+C:\Chathu\Projects\My Project\My Project\obj\Release\My Project.dll
+C:\Chathu\Projects\My Project\My Project\obj\Release\My Project.pdb

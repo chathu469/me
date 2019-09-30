@@ -1,0 +1,113 @@
+﻿
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(engine.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Times New Roman';
+}
+
+h1 {
+    font-size: 18px;
+    color: white;
+}
+
+.form-control {
+    font-size: 21px;
+    margin-top: 21px;
+    padding: 3px;
+    margin-bottom: 10px;
+    background-color: #e8e8ef9e;
+    border-color: #484a49;
+    margin-left: 43px;
+}
+
+.btn-default {
+    margin-left: 100px;
+    width: 143px;
+    border-radius: 6px;
+    border-color: #a09e9e width: 140px;
+    height: 31px;
+    background-color: #dee2e6;
+    border-color: black;
+    margin-top: 20px;
+}
+
+.label-default {
+    margin-top: 10px;
+}
+
+.col-md-6 {
+    box-shadow: 0px 1px 50px 10px black;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 100px;
+    top: 10px;
+    left: -1px;
+    background: transparent;
+    background-color: #bbc1c5eb;
+}
+
+.text-center {
+    font-size: 22px;
+    color: black;
+    margin-bottom: 13px;
+    font-family: cursive;
+    margin-top: 18px;
+}
+
+.form-group {
+    margin-top: 43px;
+    margin-bottom: 31px;
+    margin-right: -22px;
+    margin-left: 2px;
+}
+
+.form-inline {
+    margin-left: 8px;
+}
+
+.label-default {
+    font-style: unset;
+    margin-inline-start: 90px;
+    font-size: 18px;
+    margin-left: 8px;
+    font-family: cursive;
+}
+
+.btn-default {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 162px;
+    height: 40px;
+    background-color: #dee2e6;
+    border-color: black;
+    margin-left: 238px;
+    border-width: thin;
+}
+
+.text-info {
+    color: #1c1d1d !important;
+    margin-left: 32px;
+    font-family: monospace;
+    font-size: 19px;
+}
+
+.active {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-content: baseline;
+    margin: 0;
+    position: absolute;
+    top: 10%;
+    left: 90%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 78px;
+    border-color: black;
+    border-width: thin;
+}
+.text-info {
+    margin-right: -28px;
+}
